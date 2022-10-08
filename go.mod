@@ -3,6 +3,7 @@ module github.com/jailtonjunior94/go-tests
 go 1.19
 
 require (
+	github.com/go-chi/chi/v5 v5.0.7
 	github.com/google/uuid v1.3.0
 	github.com/mattn/go-sqlite3 v1.14.15
 	github.com/stretchr/testify v1.8.0

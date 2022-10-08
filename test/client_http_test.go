@@ -8,6 +8,7 @@ import (
 	"testing"
 
 	"github.com/jailtonjunior94/go-tests/internal/infra/controller"
+
 	_ "github.com/mattn/go-sqlite3"
 )
 
